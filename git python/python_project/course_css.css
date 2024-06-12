@@ -1,0 +1,23 @@
+.section-div{
+background-color:#ffc107;
+border:3px;
+padding:25px 25px 25px 25px;
+margin-bottom:30px;
+width:100%;
+color:white;
+font-size:18px;
+font-family:monospace;
+box-shadow:3px 5px 2px #bbbbbb;
+border-radius:5px;
+}
+a:hover{
+text-decoration:none;
+}
+.section-div:hover{
+background-color:yellow;
+color:black;
+cursor:pointer;
+}
+.section-boxes{
+margin-top:50px;
+}

@@ -1,0 +1,30 @@
+.section-div{
+background-color:#dc3545;
+border:3px;
+padding:25px 25px 25px 5px;
+margin-top:30px;
+margin-bottom:30px;
+text-align:center;
+color:white;
+font-size:18px;
+font-family:monospace;
+box-shadow:3px 5px 2px #bbbbbb;
+border-radius:5px;
+}
+a:hover{
+text-decoration:none;
+}
+.section-div:hover{
+background-color:rgba(233, 113, 15, 0.967);
+color:black;
+cursor:pointer;
+}
+.section-boxes{
+margin-top:160px;
+}
+img {
+    float:right;
+    border-radius: 4px;
+    padding: 5px;
+    width:400px;
+  }
